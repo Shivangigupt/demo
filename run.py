@@ -13,4 +13,3 @@ class Math:
 x = Math(2, 3)
 x.add()
 
-
